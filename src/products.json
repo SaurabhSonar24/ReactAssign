@@ -1,0 +1,8 @@
+{
+    "products":[{"id":1,"pname":"Football","price":2000,"quantity":4,"images":"Images/football.JPG"},
+        {"id":2,"pname":"Skates","price":3000,"quantity":10,"images":"Images/R.JPG"},
+        {"id":3,"pname":"Cricket Bat","price":4000,"quantity":2,"images":"Images/bat.JPG"},
+        {"id":4,"pname":"Hockey Stick","price":5000,"quantity":3,"images":"Images/hockeystick.JPG"},
+        {"id":5,"pname":"Rugby","price":6000,"quantity":90,"images":"Images/rugby.JPG"},
+        {"id":6,"pname":"Table tennis bat","price":7000,"quantity":45,"images":"Images/tabletennis.JPG"}]
+}
